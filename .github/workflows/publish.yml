@@ -18,3 +18,5 @@ jobs:
             ls
             pwd
             ls build
+            pwd
+            ls build/site
