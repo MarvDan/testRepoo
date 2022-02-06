@@ -20,3 +20,9 @@ jobs:
             ls build
             pwd
             ls build/site
+            lynx -dump build/site/index.html
+            pwd
+            ls build/site
+            pwd
+            ls build/site/component-b
+
